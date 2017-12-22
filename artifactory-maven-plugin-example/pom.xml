@@ -69,12 +69,12 @@
                                 <propertiesFile>publish.properties</propertiesFile>
                             </artifactory>
                             <publisher>
-                                <contextUrl>http://35.226.28.15:8081/artifactory</contextUrl>
+                                <contextUrl>http://104.196.191.147:8081/artifactory</contextUrl>
                                 <username>admin</username>
                                 <password>password</password>
                                 <excludePatterns>*-tests.jar</excludePatterns>
-                                <repoKey>westpac_sample_proj</repoKey>
-                                <snapshotRepoKey>westpac_sample_proj</snapshotRepoKey>
+                                <repoKey>test-repo</repoKey>
+                                <snapshotRepoKey>test-repo</snapshotRepoKey>
                             </publisher>
                             <buildInfo>
                                 <buildName>plugin-demo</buildName>
