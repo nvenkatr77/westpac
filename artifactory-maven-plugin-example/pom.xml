@@ -69,7 +69,7 @@
                                 <propertiesFile>publish.properties</propertiesFile>
                             </artifactory>
                             <publisher>
-                                <contextUrl>http://104.196.191.147:8081/artifactory</contextUrl>
+                                <contextUrl>http://35.224.78.136:8081/artifactory</contextUrl>
                                 <username>admin</username>
                                 <password>password</password>
                                 <excludePatterns>*-tests.jar</excludePatterns>
