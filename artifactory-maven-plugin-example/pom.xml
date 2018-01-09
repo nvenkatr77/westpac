@@ -72,9 +72,8 @@
                                 <contextUrl>http://35.224.78.136:8081/artifactory</contextUrl>
                                 <username>admin</username>
                                 <password>password</password>
-                                <excludePatterns>*-tests.jar</excludePatterns>
-                                <repoKey>test-repo</repoKey>
-                                <snapshotRepoKey>test-repo</snapshotRepoKey>
+                                <repoKey>newautoproj</repoKey>
+                                <snapshotRepoKey>newautoproj</snapshotRepoKey>
                             </publisher>
                             <buildInfo>
                                 <buildName>plugin-demo</buildName>
