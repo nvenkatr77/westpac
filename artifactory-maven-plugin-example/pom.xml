@@ -72,8 +72,8 @@
                                 <contextUrl>http://35.185.94.193:8081/artifactory</contextUrl>
                                 <username>admin</username>
                                 <password>password</password>
-                                <repoKey>newautoproj</repoKey>
-                                <snapshotRepoKey>newautoproj</snapshotRepoKey>
+                                <repoKey>westpac_test</repoKey>
+                                <snapshotRepoKey>westpac_test</snapshotRepoKey>
                             </publisher>
                             <buildInfo>
                                 <buildName>plugin-demo</buildName>
