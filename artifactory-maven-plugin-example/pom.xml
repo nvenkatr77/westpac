@@ -69,7 +69,7 @@
                                 <propertiesFile>publish.properties</propertiesFile>
                             </artifactory>
                             <publisher>
-                                <contextUrl>http://35.224.85.101:8081/artifactory</contextUrl>
+                                <contextUrl>http://35.185.94.193:8081/artifactory</contextUrl>
                                 <username>admin</username>
                                 <password>password</password>
                                 <repoKey>newautoproj</repoKey>
